@@ -1,0 +1,5 @@
+module CChipmunk [system] {
+  header "/usr/include/chipmunk/chipmunk.h"
+  link "chipmunk"
+  export *
+}
