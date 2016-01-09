@@ -1,4 +1,5 @@
 module CChipmunk [system] {
+  header "/usr/include/chipmunk/chipmunk_private.h"
   header "/usr/include/chipmunk/chipmunk.h"
   link "chipmunk"
   export *
